@@ -1,5 +1,6 @@
 import doctorimg from "../assets/images/doctor-img.png"
 import '../assets/CSS/Hero.css'
+import '../assets/CSS/AboutSection.css'
 
 function AboutSection(){
     return(
@@ -33,7 +34,7 @@ function AboutSection(){
                         <span className="fs-6 main-color mt-4 fw-bold">Through Research </span>
                         </span>
                         
-                        <p className="fs-6 hero-subtext pt-3 ">
+                        <p className="fs-6 hero-subtext  hero-sub pt-3">
                         We follow a detailed, step-by-step development process, starting with laboratory research and testing on experimental models
 
                         </p>
@@ -48,7 +49,7 @@ function AboutSection(){
                         <span className="fs-6 main-color mt-4 fw-bold">Clinically Tested Vaccines </span>
                         </span>
                         
-                        <p className="fs-6 hero-subtext pt-3 ">
+                        <p className="fs-6 hero-subtext hero-sub pt-3">
                         All our vaccines undergo comprehensive clinical trials to ensure safety and efficacy
 
                         </p>
