@@ -4,7 +4,7 @@ import '../assets/CSS/Hero.css'
 function Hero(){
     return(
         <>
-            <div className="row justify-content-center align-items-center flex-wrap-reverse px-4">
+            <div className="row justify-content-center align-items-center flex-wrap-reverse px-4" >
 
                 <div className="col-md-5 py-4">
                     <span className="gap-2 injection-box" >
