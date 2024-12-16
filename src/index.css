@@ -1,0 +1,39 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background : linear-gradient(to right, #e4f1fb, white)
+}
+
+.my-btn{
+  padding: 8px 16px;
+  border-radius: 25px;
+  background-color: #12346a;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.5s ease-in-out;
+}
+
+.my-btn:hover{
+  transform: scale(0.9);
+}
+
+.my-color{
+
+  color: #12346a;
+}
+
+.hero-subtext{
+  color: rgb(125, 124, 124);
+  letter-spacing: 1px;
+}
+
+.my-bg-color{
+  background-color: white;
+}
+
+.main-color{
+  color: #2b9cec;
+}
